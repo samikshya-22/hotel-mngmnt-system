@@ -1,0 +1,16 @@
+.rooms-page {
+  padding: 50px 60px;
+  background: #f8fafc;
+  min-height: 100vh;
+}
+
+.rooms-page h1 {
+  text-align: center;
+  color: #1e3a8a;
+}
+
+.rooms-page p {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #555;
+}
